@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&text=SeungHeon%20Lee&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&text=SeungHeon%20Lee&fontColor=030066)
 
 ## Tech Stack
 **Lagnuage**  
@@ -11,4 +11,5 @@
 
 
 ## GitHub Stats
-[![SeungHeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=2shoneycom)](https://github.com/2shoneycom/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2shoneycom)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2shoneycom)](https://github.com/anuraghazra/github-readme-stats)
