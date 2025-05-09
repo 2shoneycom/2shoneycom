@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&text=SeungHeon%20Lee&fontColor=d6ace6)
 
 
+
 ## Tech Stack
 **Lagnuage**
 
@@ -10,3 +11,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+
+## GitHub Stats
+[![SeungHeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=2shoneycom)](https://github.com/2shoneycom/github-readme-stats)
