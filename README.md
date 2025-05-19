@@ -14,4 +14,4 @@
 
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2shoneycom)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2shoneycom&hide=jupyter%20notebook,ShaderLab&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2shoneycom&hide=jupyter%20notebook,ShaderLab,HLSL&langs_count=8)
