@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&text=SeungHeon%20Lee&fontColor=030066)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&text=Sean%20Lee&fontColor=030066)
 <br/>
 
 ## Tech Stack
